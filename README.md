@@ -6,4 +6,4 @@
 # Developer
  Altaf Husain 
 
-graduated in b.sc 
+graduated in b.sc in 2024.
