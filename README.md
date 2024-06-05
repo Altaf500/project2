@@ -4,4 +4,6 @@
 
 
 # Developer
- Altaf Husain
+ Altaf Husain 
+
+graduated in b.sc 
